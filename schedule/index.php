@@ -11,8 +11,10 @@
 <body>
 	<?php include('../includes/nav.php'); ?>
 	<div id="wrapper">
-	<h2>Preliminary Program</h2>
 	
+    <h2>Annual Symposium on</h2>
+	<h1>Optimal Approaches to Assisted Reproductive Technology</h1>
+    
     <?php
 	
 	$saturday = array(
@@ -34,8 +36,8 @@
 		array('2', '15:30-15:45', 'Coffee break', '', '', ''),
 		array('5', '15:45-16:25', 'Markus Nitzschke', 'Instituto Mexicano de Infertilidad, Guadalajara Mexico', '40', 'Low ovarian stimulation using tamoxifen/fsh compared to conventional IVF: a cohort comparative study from Kazakhsztan'),
 		array('5', '16:25-17:05', 'Frank L. Ye', 'Life IVF Center, California', '40', 'Individualized IVF: LIFE Experience'),
-		array('5', '17:05-17:45', 'Wen He/Yanping Kuang', 'Shanghai Ninth Hospital', '40', 'Dose increased LH concentration during COH affect the outcomes of IVF?'),
-		array('2', '17:45-18:45', 'Dinner (on own)', '', '', ''),
+		array('5', '17:05-17:45', 'Yanping Kuang', 'Shanghai Ninth Hospital', '40', 'Changing paradigms in ovarian stimulation: What can we learn from luteal-phase ovarian stimulation?'),
+		array('2', '17:45-18:45', 'Dinner (on own, snacks will be provided to those who attend the following Satellite Meeting)', '', '', ''),
 		array('2', '18:45-20:30', '<strong>Satellite Meeting:</strong> Clinic workshop, discussion for diminished ovarian reserver<br />
 		Presented by：  Yanping Kuang and Mingxue Yang<br /><br />We welcome all specialists and colleagues to attend, listen, and discuss.  ', '', '', '')
 	);
@@ -51,7 +53,7 @@
 		array('5', '10:55-11:35', 'Zeev Shoham', 'Reproductive Medicine and Infertility Unit, Kaplan Medical Center, Rehovot, Israel', '40', 'Can we improve implantation: clinical aspects'),
 		array('2', '10:35-13:30', 'Lunch Break', '', '', ''),
 		array('1', 'Chair：Zhihong YANG、Xiaoming TENG', '', '', '', ''),
-		array('5', '13:30-14:10', 'Yangping Kuang', 'Shanghai Ninth Hospital', '40', 'Changing paradigms in ovarian stimulation: What can we learn from luteal-phase ovarian stimulation?'),
+		array('5', '13:30-14:10', 'Wen He/Yanping Kuang', 'Shanghai Ninth Hospital', '40', 'Does increased LH concentration during COH affect the outcomes of IVF?'),
 		array('5', '14:10-14:50', 'Songying Zhang, Xiaona Lin', 'Sir Run Run Shaw Hospital, Medical school, Zhejiang University', '40', 'The value of hysteroscopic management in assisted reproduction'),
 		array('2', '14:50-15:05', 'Coffee Break', '', '', ''),
 		array('5', '15:05-15:45', 'Yuanhua Huang', 'IVF Center in the Hospital Affiliated to the College of Medicine of Hainan', '40', 'The effects of Cyclosporine on trophoblast and embryo implantation'),

@@ -11,8 +11,8 @@
 <body>
 	<?php include('includes/nav.php'); ?>
 	<div id="wrapper">
-	<h2>Annual Symposium on:</h2>
-	<h1>An Optimal Approach to Assisted Reproductive Technology</h1>
+	<h2>Annual Symposium on</h2>
+	<h1>Optimal Approaches to Assisted Reproductive Technology</h1>
     
     <h3>September 6-7, 2014<br />
     Shanghai, China</h3>
